@@ -1,0 +1,33 @@
+#home {
+    background: #e7281b;
+    color: white;
+    padding-bottom: 0%;
+    height: 45%;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
+
+.red {
+    background: #e7281b;
+    color: white;
+}
+
+.dark {
+    background: black;
+    color: white;
+}
+
+.margin {
+    margin-bottom: 20px;
+}
+
+.white {
+    color: white;
+}
