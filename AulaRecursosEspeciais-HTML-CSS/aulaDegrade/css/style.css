@@ -1,0 +1,49 @@
+#caixa {
+    width: 300px;
+    height: 300px;
+    /* background: url("../img/camera.png"); */
+    /* background: linear-gradient(98deg, red,green, yellow); */
+    background: radial-gradient(red, green, yellow);
+}
+
+#caixa h1 {
+    background: rgb(255, 255, 255, 0.5);
+}
+
+
+
+/* 
+Degrades
+https://www.w3schools.com/css/css3_gradients.asp
+
+Cores
+https://www.w3schools.com/css/css3_colors.asp
+*/
+
+
+/*
+#caixa1 {
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+    padding: 50px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-border-radius: 20px 90px;
+    -moz-border-radius: 20px 90px;
+    border-radius: 20px 90px; 
+}
+
+#caixa2 {
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+    padding: 50px;
+    margin: 10px;
+    -webkit-border-radius: 20px 90px;
+    -moz-border-radius: 20px 90px;
+    border-radius: 20px 90px;
+} 
+*/
+
