@@ -1,0 +1,51 @@
+/* SELETOR UNIVERSAL 
+* {
+    border: 1px solid red;
+}
+*/
+/* SELETOR DE TEXTO 
+
+h1 {
+    color: green;
+}
+*/
+/* SELETOR DE CLASSE 
+
+p.verde {
+    color: red;
+}
+*/
+/* SELETOR DE ID 
+
+#cabecalho {
+    background-color:grey;
+}
+*/
+/* SELETOR DE FILHO
+
+li>a {
+    color: red;
+    text-decoration: none;
+}
+*/
+/* SELETOR DESCENDENTE
+
+li a {
+    color: green;
+    text-decoration: none;
+}
+*/
+/* SELETOR ADJASENTE
+
+li+a {
+    color: green;
+    text-decoration: none;
+}
+*/
+/* SELETOR ADJASENTE
+
+li~a {
+    color: green;
+    text-decoration: none;
+}
+*/

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cor e imagem de fundo</title>
+        <meta charset="UTF-8" />
+
+        <style type="text/css">
+            /*
+            .fundo {
+                background-color: blue;
+            }
+            */
+            body {
+                background-image: url('img/yoshi.png');
+
+                /* repeat-x, repeat-y, no-repeat, repeat */
+                background-repeat: no-repeat;
+
+                /* scrool, fixed */
+                background-attachment: scroll;
+
+                /*
+                primeiro valor: left, center, right
+                segundo valor: top, center, bottom
+                */
+                background-position: center top;
+            }
+            
+            .fundo {
+                background: blue url('img/yoshi.png') repeat-x scroll top;
+            }
+
+        </style>
+    </head>
+    <body class="fundo">
+        <h1>Conteúdo de título 1</h1>
+
+        <p>Lorem lorem ipsum dolor sit amet lorem ipsum dolorlorem lorem ipsum dolor.</p>
+
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+        <p>Lorem lorem ipsum dolor sit amet lorem ipsum dolorlorem lorem ipsum dolor.</p>
+
+    </body>
+</html>
